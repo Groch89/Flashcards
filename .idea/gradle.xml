@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Flashcards/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/Shape" />
+            <option value="$PROJECT_DIR$/Problems (10)/Movie" />
+            <option value="$PROJECT_DIR$/Problems (11)/Employee" />
+            <option value="$PROJECT_DIR$/Problems (12)/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Problems (13)/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Problems (14)/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Problems (15)/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Problems (16)/The sum of array elements" />
+            <option value="$PROJECT_DIR$/Problems (17)/The sum of array elements" />
+            <option value="$PROJECT_DIR$/Problems (18)/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Problems (19)/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Problems (2)/Print" />
+            <option value="$PROJECT_DIR$/Problems (20)/Avoid NPE" />
+            <option value="$PROJECT_DIR$/Problems (21)/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Problems (22)/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Problems (23)/Squares list" />
+            <option value="$PROJECT_DIR$/Problems (24)/Squares list" />
+            <option value="$PROJECT_DIR$/Problems (25)/Displaying pairs" />
+            <option value="$PROJECT_DIR$/Problems (26)/Getting submaps" />
+            <option value="$PROJECT_DIR$/Problems (27)/Tricky sub-maps" />
+            <option value="$PROJECT_DIR$/Problems (28)/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Problems (29)/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Problems (3)/Binary search" />
+            <option value="$PROJECT_DIR$/Problems (30)/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Problems (31)/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Problems (32)/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Problems (33)/Count words" />
+            <option value="$PROJECT_DIR$/Problems (34)/Count words" />
+            <option value="$PROJECT_DIR$/Problems (36)/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Problems (37)/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Problems (38)/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Problems (39)/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Problems (4)/Army" />
+            <option value="$PROJECT_DIR$/Problems (5)/Account" />
+            <option value="$PROJECT_DIR$/Problems (6)/Account" />
+            <option value="$PROJECT_DIR$/Problems (7)/Book" />
+            <option value="$PROJECT_DIR$/Problems (8)/How many nuts each squirrel will get" />
+            <option value="$PROJECT_DIR$/Problems (9)/Phone" />
+            <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Problems/Check if an array contains two numbers" />
+            <option value="$PROJECT_DIR$/Problems/Complex" />
+            <option value="$PROJECT_DIR$/Problems/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Problems/Count words" />
+            <option value="$PROJECT_DIR$/Problems/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Problems/Test learners" />
+            <option value="$PROJECT_DIR$/Problems/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

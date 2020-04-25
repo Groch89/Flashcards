@@ -1,0 +1,31 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Problems/Check if an array contains two numbers/out/
+/Problems/Check if an array contains two numbers/out/production/classes/
+/Problems/Count how many times a number occurs/out/
+/Problems/Count how many times a number occurs/out/production/classes/
+/Problems/Getting the fullname/out/
+/Problems/Getting the fullname/out/production/classes/
+/Problems/Initializing an array of longs/out/
+/Problems/Initializing an array of longs/out/production/classes/
+/Problems/The maximum pairwise product/out/
+/Problems/The maximum pairwise product/out/production/classes/
+/Problems (8)/How many nuts each squirrel will get/out/
+/Problems (8)/How many nuts each squirrel will get/out/production/classes/
+/Problems (13)/Cyclically shifting elements/out/
+/Problems (13)/Cyclically shifting elements/out/production/classes/
+/Problems (14)/Classes for Hospital/out/
+/Problems (14)/Classes for Hospital/out/production/classes/
+/Problems (15)/The sum of integers from a to b/out/
+/Problems (15)/The sum of integers from a to b/out/production/classes/
+/Problems (26)/Getting submaps/out/
+/Problems (26)/Getting submaps/out/production/classes/
+/Problems (29)/Generate random numbers/out/
+/Problems (29)/Generate random numbers/out/production/classes/
+/Problems (32)/Converting and multiplying/out/
+/Problems (32)/Converting and multiplying/out/production/classes/
+/Problems (38)/Guest list of a hotel/out/
+/Problems (38)/Guest list of a hotel/out/production/classes/
